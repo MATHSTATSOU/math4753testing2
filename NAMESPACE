@@ -2,3 +2,5 @@
 
 export(mygetwd)
 export(scatterhist)
+importFrom(graphics,hist)
+importFrom(graphics,par)

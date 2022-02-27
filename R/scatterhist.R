@@ -4,6 +4,7 @@
 #' @param y Y variable as a vector
 #' @param xlab x label
 #' @param ylab y label
+#' @importFrom graphics hist par
 #'
 #' @return A sophisticated plot
 #' @export
