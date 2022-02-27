@@ -1,7 +1,7 @@
 Package: MATH4753my4by4
 Type: Package
 Title: Holds MATH4753 functions and other files
-Version: 0.1.0
+Version: 0.1.0.9000
 Author: Dr Wayne Stewart
 Maintainer: Wayne Stewart<wayne.s.stewart@ou.edu>
 Description: A subset of MATH 4753 coursework and functions plus other goodies.
