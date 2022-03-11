@@ -1,0 +1,14 @@
+---
+title: "PAckage contents"
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(MATH4753my4by4)
+```
