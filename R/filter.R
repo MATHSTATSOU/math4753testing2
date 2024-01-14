@@ -1,6 +1,6 @@
 #' @title filtering data
 #'
-#' @param df  data frame
+#' @param df  data frame used in dplyr function
 #' @param cond  condition for filter
 #' @importFrom dplyr '%>%' filter
 #'
