@@ -6,7 +6,7 @@
 #' @param ylab y label
 #' @importFrom graphics hist par
 #'
-#' @return A sophisticated plot
+#' @return A sophisticated scatterplot
 #' @export
 #'
 #' @examples
